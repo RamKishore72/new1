@@ -219,7 +219,7 @@ class registred(Screen):
     """Registered screen logic"""
     pass
 
-class Ram(MDApp):
+class Kishore(MDApp):
     def build(self):
         """Build and return the ScreenManager with all screens"""
         self.theme_cls.theme_style = "Dark"  # Set the theme style
@@ -286,4 +286,4 @@ class Ram(MDApp):
 Builder.load_string(kv)
 
 if __name__ == "__main__":
-    Ram().run()
+    Kishore().run()
