@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Ram
+title = Kishore
 
 # (str) Package name
 package.name = nfsApk
